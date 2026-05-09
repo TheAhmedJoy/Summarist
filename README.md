@@ -1,5 +1,7 @@
 # Summarist
 
+**Live demo:** [summarist-ahmed-ali.vercel.app](https://summarist-ahmed-ali.vercel.app/)
+
 A web application that gives readers the core ideas of best‑selling books in a few minutes. Users can browse curated lists, read short summaries, listen to audio versions, search the catalog, and unlock the full library through a Premium subscription.
 
 Built as a clone / homage of the popular book‑summary apps, this project demonstrates a modern Next.js 16 stack wired to Firebase services and Stripe billing.
