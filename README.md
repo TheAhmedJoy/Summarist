@@ -1,6 +1,6 @@
 # Summarist
 
-**Live Demo(https://summarist-ahmed-ali.vercel.app/)**
+**[Live Demo](https://summarist-ahmed-ali.vercel.app/)**
 
 A web application that gives readers the core ideas of best‑selling books in a few minutes. Users can browse curated lists, read short summaries, listen to audio versions, search the catalog, and unlock the full library through a Premium subscription.
 
